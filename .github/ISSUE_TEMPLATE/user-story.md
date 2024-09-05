@@ -1,9 +1,9 @@
 ---
 name: User Story
 about: A template to create user stories
-title: ''
+title: "[IBM LAB]"
 labels: ''
-assignees: ''
+assignees: laurawmorroni
 
 ---
 
